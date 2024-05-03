@@ -1,0 +1,8 @@
+absl-py==1.4.0
+google-cloud-aiplatform==1.25.0
+proto-plus==1.22.2
+protobuf==4.23.0
+streamlit
+pandas
+pandas_gbq
+
