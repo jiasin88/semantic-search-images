@@ -5,5 +5,5 @@ More details can be found in this blog post: https://medium.com/google-cloud/how
 
 High-level Steps:
 1) Upload of Images to GCS Bucket
-2) Creation of image embeddings with indexing.py
+2) Creation of image embeddings with 'indexing.py'
 3) Copy of embedding data to GCS bucket with copyEmbeddingsToGCS.sh
